@@ -2,7 +2,7 @@
   <a href="README.md">🇪🇸 Español</a> | <b>🇬🇧 English</b>
 </div>
 
-# 🏥 HL7-TRANSLATE-FHIR 🇨🇱
+# 🏥 HL7-TRANSLATE-FHIR 
 
 Healthcare interoperability starter kit (HL7 v2 to FHIR). Middleware using Mirth Connect and a HAPI FHIR server adapted to the Chilean Core-CL standard.
 
