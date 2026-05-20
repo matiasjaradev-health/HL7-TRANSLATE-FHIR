@@ -1,28 +1,22 @@
 {
   "name": "HL7-TRANSLATE-FHIR",
-  "theme": {
-    "colors": {
-      "primary": "#0D9373",
-      "light": "#27B491",
-      "dark": "#0A745A"
-    }
+  "favicon": "/favicon.png",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#27B491",
+    "dark": "#0A745A"
   },
-  "languages": ["es", "en"],
   "navigation": [
     {
-      "language": "es",
-      "group": "Getting Started",
+      "group": "Primeros Pasos (ES)",
       "pages": [
-        "docs/es/introduction",
-        "docs/es/how-to-install"
+        "docs/es/introduccion"
       ]
     },
     {
-      "language": "en",
-      "group": "Getting Started",
+      "group": "Getting Started (EN)",
       "pages": [
-        "docs/en/introduction",
-        "docs/en/how-to-install"
+        "docs/en/introduction"
       ]
     }
   ]
