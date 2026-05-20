@@ -1,5 +1,5 @@
 {
-  "name": "HL7-TRANSLATE-FHIR 🇨🇱",
+  "name": "HL7-TRANSLATE-FHIR",
   "theme": {
     "colors": {
       "primary": "#0D9373",
@@ -11,18 +11,18 @@
   "navigation": [
     {
       "language": "es",
-      "group": "Primeros Pasos",
+      "group": "Getting Started",
       "pages": [
-        "es/introduccion",
-        "es/como-instalar"
+        "docs/es/introduction",
+        "docs/es/how-to-install"
       ]
     },
     {
       "language": "en",
       "group": "Getting Started",
       "pages": [
-        "en/introduccion",
-        "en/como-instalar"
+        "docs/en/introduction",
+        "docs/en/how-to-install"
       ]
     }
   ]
