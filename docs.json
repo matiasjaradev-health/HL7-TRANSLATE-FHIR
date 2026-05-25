@@ -1,0 +1,27 @@
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "HL7-TRANSLATE-FHIR",
+  "colors": {
+    "primary": "#0D9373",
+    "light": "#27B491",
+    "dark": "#0A745A"
+  },
+  "favicon": "/favicon.png",
+  "navigation": {
+    "groups": [
+      {
+        "group": "Primeros Pasos (ES)",
+        "pages": [
+          "docs/es/introduction"
+        ]
+      },
+      {
+        "group": "Getting Started (EN)",
+        "pages": [
+          "docs/en/introduction"
+        ]
+      }
+    ]
+  }
+}
