@@ -1,5 +1,5 @@
 <div align="right">
-  <b>🇪🇸 Español</b> | <a href="README-en.md">🇬🇧 English</a>
+  <b>🇪🇸 Español</b> | <a href="https://github.com/matiasjaradev-health/hl7-translate-fhir/blob/main/README-en.md">🇬🇧 English</a>
 </div>
 
 # 🏥 HL7-TRANSLATE-FHIR
